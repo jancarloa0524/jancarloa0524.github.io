@@ -16,6 +16,10 @@ a {
     color: #2e72a1;
 }
 
+hr {
+	height: 2px;background-color:white;width:400px;
+}
+
 #logo, .project-img {
     max-height: 300px;
 }
