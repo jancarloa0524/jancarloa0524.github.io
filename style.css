@@ -85,3 +85,9 @@ hr {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.caption {
+	color: #808080;
+	font-size: 12px;
+	padding: 2px;
+}
